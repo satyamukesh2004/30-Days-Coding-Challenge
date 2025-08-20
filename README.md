@@ -1,7 +1,7 @@
 # 🚀 30 Days Coding Consistency Challenge  
 
 Welcome to my **30 Days Coding Consistency Challenge** 🎯  
-After completing my **15 Days Coding Challenge**, I’m now taking it to the next level with a **30-day streak**.  
+ 
 
 This challenge is all about **discipline, consistency, and problem-solving** 💡.  
 I’ll be solving **LeetCode problems every single day** and documenting my journey here.  
