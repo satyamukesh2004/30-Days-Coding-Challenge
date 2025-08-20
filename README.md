@@ -1,10 +1,9 @@
-# 🚀 30 Days Coding Consistency Challenge  
+# 🚀 30 Days of Coding Consistency  
 
-Welcome to my **30 Days Coding Consistency Challenge** 🎯  
- 
+Welcome to my **30 Days of Coding Consistency Challenge** 🎯  
 
-This challenge is all about **discipline, consistency, and problem-solving** 💡.  
-I’ll be solving **LeetCode problems every single day** and documenting my journey here.  
+This challenge is not just about solving problems—it’s about building a **habit of daily coding** 💡.  
+Every day, I’ll be solving **LeetCode problems** and tracking my progress here.  
 
 ---
 
@@ -12,16 +11,18 @@ I’ll be solving **LeetCode problems every single day** and documenting my jour
 
 ### ✅ Day 1  
 **Problems Solved:**  
-- Add Two Integers – [LeetCode - 2235](https://leetcode.com/problems/add-two-integers/description/)  
-- Concatenation of Array – [LeetCode - 1929](https://leetcode.com/problems/concatenation-of-array/)  
-- Move Zeroes – [LeetCode - 283](https://leetcode.com/problems/move-zeroes/)  
+- Add Two Integers → [LeetCode - 2235](https://leetcode.com/problems/add-two-integers/description/)  
+- Concatenation of Array → [LeetCode - 1929](https://leetcode.com/problems/concatenation-of-array/)  
+- Move Zeroes → [LeetCode - 283](https://leetcode.com/problems/move-zeroes/)  
 
-✔️ **Status:** Done  
+✔️ **Status:** Completed successfully 🎉  
 
 ---
 
-## 🏆 Motivation  
-> “Success doesn’t come from what you do occasionally, it comes from what you do consistently.”  
+## 🔥 Why I’m Doing This  
+> “Consistency beats intensity. Small steps taken daily lead to big achievements.”  
 
-I’ll keep updating this file **daily** with my solved problems ✅.  
- 
+This is my way of staying **disciplined and accountable**.  
+By the end of 30 days, I aim to see noticeable growth in my **coding speed, logic building, and problem-solving mindset**.  
+
+Stay tuned — more updates coming every day 🚀  
