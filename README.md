@@ -2,7 +2,7 @@
 
 Welcome to my **30 Days of Coding Consistency Challenge** 🎯  
 
-This challenge is not just about solving problems—it’s about building a **habit of daily coding** 💡.  
+This challenge is not just about solving problems—it’s about building a habit of daily coding 💡.  
 Every day, I’ll be solving **LeetCode problems** and tracking my progress here.  
 
 ---
@@ -11,7 +11,7 @@ Every day, I’ll be solving **LeetCode problems** and tracking my progress here
 
 ### ✅ Day 1  
 **Problems Solved:**  
-- Add Two Integers → [LeetCode - 2235](https://leetcode.com/problems/add-two-integers/description/)  
+- Add Two Integers → [LeetCode - 2235](https://leetcode.com/problems/add-two-integers/)  
 - Concatenation of Array → [LeetCode - 1929](https://leetcode.com/problems/concatenation-of-array/)  
 - Move Zeroes → [LeetCode - 283](https://leetcode.com/problems/move-zeroes/)  
 
@@ -19,10 +19,20 @@ Every day, I’ll be solving **LeetCode problems** and tracking my progress here
 
 ---
 
+### ✅ Day 2  
+**Problems Solved:**  
+- Contains Duplicate → [LeetCode - 217](https://leetcode.com/problems/contains-duplicate/)  
+- Missing Number → [LeetCode - 268](https://leetcode.com/problems/missing-number/)  
+- First Unique Character in a String → [LeetCode - 387](https://leetcode.com/problems/first-unique-character-in-a-string/)  
+
+✔️ **Status:** Completed successfully 🎉  
+
+---
+
 ## 🔥 Why I’m Doing This  
-> “Consistency beats intensity. Small steps taken daily lead to big achievements.”  
+“Consistency beats intensity. Small steps taken daily lead to big achievements.”  
 
-This is my way of staying **disciplined and accountable**.  
-By the end of 30 days, I aim to see noticeable growth in my **coding speed, logic building, and problem-solving mindset**.  
+This is my way of staying disciplined and accountable.  
+By the end of 30 days, I aim to see noticeable growth in my coding speed, logic building, and problem-solving mindset.  
 
-Stay tuned — more updates coming every day 🚀  
+Stay tuned — more updates coming every day 🚀
