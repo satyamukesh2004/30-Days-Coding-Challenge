@@ -42,8 +42,19 @@ Roman to Integer → LeetCode - 13
 
 ✔️ Status: Completed successfully 🎉
 
-🔥 Why I’m Doing This
+✅ Day 4
 
+Problems Solved:
+
+Single Number → LeetCode - 136
+
+Merge Sorted Array → LeetCode - 88
+
+Intersection of Two Arrays II → LeetCode - 350
+
+✔️ Status: Completed successfully 🎉
+
+🔥 Why I’m Doing This
 “Consistency beats intensity. Small steps taken daily lead to big achievements.”
 
 This is my way of staying disciplined and accountable.
