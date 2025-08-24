@@ -54,6 +54,18 @@ Intersection of Two Arrays II → LeetCode - 350
 
 ✔️ Status: Completed successfully 🎉
 
+✅ Day 5
+
+Problems Solved:
+
+Palindrome Number → LeetCode - 9
+
+Happy Number → LeetCode - 202
+
+Number of 1 Bits → LeetCode - 191
+
+✔️ Status: Completed successfully 🎉
+
 🔥 Why I’m Doing This
 “Consistency beats intensity. Small steps taken daily lead to big achievements.”
 
