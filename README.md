@@ -66,6 +66,18 @@ Number of 1 Bits → LeetCode - 191
 
 ✔️ Status: Completed successfully 🎉
 
+✅ Day 6
+
+Problems Solved:
+
+Longest Consecutive Sequence → LeetCode - 128
+
+Sort Colors → LeetCode - 75
+
+3Sum → LeetCode - 15
+
+✔️ Status: Completed successfully 🎉
+
 🔥 Why I’m Doing This
 “Consistency beats intensity. Small steps taken daily lead to big achievements.”
 
