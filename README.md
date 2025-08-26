@@ -15,7 +15,6 @@ Add Two Integers → LeetCode - 2235
 Concatenation of Array → LeetCode - 1929
 
 Move Zeroes → LeetCode - 283
-
 ✔️ Status: Completed successfully 🎉
 
 ✅ Day 2
@@ -27,7 +26,6 @@ Contains Duplicate → LeetCode - 217
 Missing Number → LeetCode - 268
 
 First Unique Character in a String → LeetCode - 387
-
 ✔️ Status: Completed successfully 🎉
 
 ✅ Day 3
@@ -39,7 +37,6 @@ Length of Last Word → LeetCode - 58
 Palindrome Number → LeetCode - 9
 
 Roman to Integer → LeetCode - 13
-
 ✔️ Status: Completed successfully 🎉
 
 ✅ Day 4
@@ -51,7 +48,6 @@ Single Number → LeetCode - 136
 Merge Sorted Array → LeetCode - 88
 
 Intersection of Two Arrays II → LeetCode - 350
-
 ✔️ Status: Completed successfully 🎉
 
 ✅ Day 5
@@ -63,7 +59,6 @@ Palindrome Number → LeetCode - 9
 Happy Number → LeetCode - 202
 
 Number of 1 Bits → LeetCode - 191
-
 ✔️ Status: Completed successfully 🎉
 
 ✅ Day 6
@@ -75,6 +70,17 @@ Longest Consecutive Sequence → LeetCode - 128
 Sort Colors → LeetCode - 75
 
 3Sum → LeetCode - 15
+✔️ Status: Completed successfully 🎉
+
+✅ Day 7
+
+Problems Solved:
+
+Largest Number → LeetCode - 179
+
+Zigzag Conversion → LeetCode - 6
+
+String Compression → LeetCode - 443
 
 ✔️ Status: Completed successfully 🎉
 
