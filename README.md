@@ -6,8 +6,8 @@ This challenge is not just about solving problems—it’s about building a habi
 Every day, I’ll be solving LeetCode problems and tracking my progress here.
 
 📅 Daily Progress
-✅ Day 1
 
+✅ Day 1
 Problems Solved:
 
 Add Two Integers → LeetCode - 2235
@@ -18,7 +18,6 @@ Move Zeroes → LeetCode - 283
 ✔️ Status: Completed successfully 🎉
 
 ✅ Day 2
-
 Problems Solved:
 
 Contains Duplicate → LeetCode - 217
@@ -29,7 +28,6 @@ First Unique Character in a String → LeetCode - 387
 ✔️ Status: Completed successfully 🎉
 
 ✅ Day 3
-
 Problems Solved:
 
 Length of Last Word → LeetCode - 58
@@ -40,7 +38,6 @@ Roman to Integer → LeetCode - 13
 ✔️ Status: Completed successfully 🎉
 
 ✅ Day 4
-
 Problems Solved:
 
 Single Number → LeetCode - 136
@@ -51,7 +48,6 @@ Intersection of Two Arrays II → LeetCode - 350
 ✔️ Status: Completed successfully 🎉
 
 ✅ Day 5
-
 Problems Solved:
 
 Palindrome Number → LeetCode - 9
@@ -62,7 +58,6 @@ Number of 1 Bits → LeetCode - 191
 ✔️ Status: Completed successfully 🎉
 
 ✅ Day 6
-
 Problems Solved:
 
 Longest Consecutive Sequence → LeetCode - 128
@@ -73,7 +68,6 @@ Sort Colors → LeetCode - 75
 ✔️ Status: Completed successfully 🎉
 
 ✅ Day 7
-
 Problems Solved:
 
 Largest Number → LeetCode - 179
@@ -81,7 +75,16 @@ Largest Number → LeetCode - 179
 Zigzag Conversion → LeetCode - 6
 
 String Compression → LeetCode - 443
+✔️ Status: Completed successfully 🎉
 
+✅ Day 8
+Problems Solved:
+
+Add Two Numbers → LeetCode - 2
+
+Reverse Linked List → LeetCode - 206
+
+Next Greater Element I → LeetCode - 496
 ✔️ Status: Completed successfully 🎉
 
 🔥 Why I’m Doing This
