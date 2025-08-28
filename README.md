@@ -87,6 +87,16 @@ Reverse Linked List → LeetCode - 206
 Next Greater Element I → LeetCode - 496
 ✔️ Status: Completed successfully 🎉
 
+✅ Day 9
+Problems Solved:
+
+Design Circular Queue → LeetCode - 622
+
+Number of Recent Calls → LeetCode - 933
+
+Implement Queue using Stacks → LeetCode - 232
+✔️ Status: Completed successfully 🎉
+
 🔥 Why I’m Doing This
 “Consistency beats intensity. Small steps taken daily lead to big achievements.”
 
