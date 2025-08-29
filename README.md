@@ -97,6 +97,16 @@ Number of Recent Calls → LeetCode - 933
 Implement Queue using Stacks → LeetCode - 232
 ✔️ Status: Completed successfully 🎉
 
+✅ Day 10
+Problems Solved:
+
+Valid Palindrome II → LeetCode - 680
+
+Repeated DNA Sequences → LeetCode - 187
+
+
+✔️ Status: Completed successfully 🎉
+
 🔥 Why I’m Doing This
 “Consistency beats intensity. Small steps taken daily lead to big achievements.”
 
