@@ -103,8 +103,16 @@ Problems Solved:
 Valid Palindrome II → LeetCode - 680
 
 Repeated DNA Sequences → LeetCode - 187
+✔️ Status: Completed successfully 🎉
 
+✅ Day 11
+Problems Solved:
 
+Range Sum Query - Immutable → LeetCode - 303
+
+Find Pivot Index → LeetCode - 724
+
+Running Sum of 1d Array → LeetCode - 1480
 ✔️ Status: Completed successfully 🎉
 
 🔥 Why I’m Doing This
