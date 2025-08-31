@@ -115,6 +115,16 @@ Find Pivot Index → LeetCode - 724
 Running Sum of 1d Array → LeetCode - 1480
 ✔️ Status: Completed successfully 🎉
 
+✅ Day 12
+Problems Solved:
+
+First Bad Version → LeetCode - 278
+
+Peak Index in a Mountain Array → LeetCode - 852
+
+Valid Perfect Square → LeetCode - 367
+✔️ Status: Completed successfully 🎉
+
 🔥 Why I’m Doing This
 “Consistency beats intensity. Small steps taken daily lead to big achievements.”
 
