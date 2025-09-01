@@ -125,6 +125,16 @@ Peak Index in a Mountain Array → LeetCode - 852
 Valid Perfect Square → LeetCode - 367
 ✔️ Status: Completed successfully 🎉
 
+✅ Day 13
+Problems Solved:
+
+How Many Numbers Are Smaller Than the Current Number → LeetCode - 1365
+
+Array Partition → LeetCode - 561
+
+Count Items Matching a Rule → LeetCode - 1773
+✔️ Status: Completed successfully 🎉
+
 🔥 Why I’m Doing This
 “Consistency beats intensity. Small steps taken daily lead to big achievements.”
 
