@@ -135,6 +135,16 @@ Array Partition → LeetCode - 561
 Count Items Matching a Rule → LeetCode - 1773
 ✔️ Status: Completed successfully 🎉
 
+✅ Day 14
+Problems Solved:
+
+Arranging Coins → LeetCode - 441
+
+Capacity To Ship Packages Within D Days → LeetCode - 1011
+
+Split Array Largest Sum → LeetCode - 410
+✔️ Status: Completed successfully 🎉
+
 🔥 Why I’m Doing This
 “Consistency beats intensity. Small steps taken daily lead to big achievements.”
 
