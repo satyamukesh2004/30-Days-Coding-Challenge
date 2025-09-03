@@ -145,6 +145,17 @@ Capacity To Ship Packages Within D Days → LeetCode - 1011
 Split Array Largest Sum → LeetCode - 410
 ✔️ Status: Completed successfully 🎉
 
+✅ Day 15
+Problems Solved:
+
+Remove All Adjacent Duplicates in String → LeetCode - 1047
+
+Score of Parentheses → LeetCode - 856
+
+Remove All Adjacent Duplicates in String II → LeetCode - 1209
+
+✔️ Status: Completed successfully 🎉
+
 🔥 Why I’m Doing This
 “Consistency beats intensity. Small steps taken daily lead to big achievements.”
 
