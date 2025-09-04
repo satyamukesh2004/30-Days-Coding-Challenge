@@ -153,7 +153,16 @@ Remove All Adjacent Duplicates in String → LeetCode - 1047
 Score of Parentheses → LeetCode - 856
 
 Remove All Adjacent Duplicates in String II → LeetCode - 1209
+✔️ Status: Completed successfully 🎉
 
+✅ Day 16
+Problems Solved:
+
+Lemonade Change → LeetCode - 860
+
+Gas Station → LeetCode - 134
+
+Queue Reconstruction by Height → LeetCode - 406
 ✔️ Status: Completed successfully 🎉
 
 🔥 Why I’m Doing This
