@@ -165,6 +165,16 @@ Gas Station → LeetCode - 134
 Queue Reconstruction by Height → LeetCode - 406
 ✔️ Status: Completed successfully 🎉
 
+✅ Day 17
+Problems Solved:
+
+Rotate List → LeetCode - 61
+
+Swap Nodes in Pairs → LeetCode - 24
+
+Copy List with Random Pointer → LeetCode - 138
+✔️ Status: Completed successfully 🎉
+
 🔥 Why I’m Doing This
 “Consistency beats intensity. Small steps taken daily lead to big achievements.”
 
