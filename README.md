@@ -175,6 +175,16 @@ Swap Nodes in Pairs → LeetCode - 24
 Copy List with Random Pointer → LeetCode - 138
 ✔️ Status: Completed successfully 🎉
 
+✅ Day 18
+Problems Solved:
+
+Kth Largest Element in a Stream → LeetCode - 703
+
+K Closest Points to Origin → LeetCode - 973
+
+Find Median from Data Stream → LeetCode - 295
+✔️ Status: Completed successfully 🎉
+
 🔥 Why I’m Doing This
 “Consistency beats intensity. Small steps taken daily lead to big achievements.”
 
