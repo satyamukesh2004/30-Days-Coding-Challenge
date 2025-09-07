@@ -185,6 +185,16 @@ K Closest Points to Origin → LeetCode - 973
 Find Median from Data Stream → LeetCode - 295
 ✔️ Status: Completed successfully 🎉
 
+✅ Day 19
+Problems Solved:
+
+Remove Duplicates from Sorted Array → LeetCode - 26
+
+Merge Sorted Array → LeetCode - 88
+
+Intersection of Two Arrays II → LeetCode - 350
+✔️ Status: Completed successfully 🎉
+
 🔥 Why I’m Doing This
 “Consistency beats intensity. Small steps taken daily lead to big achievements.”
 
