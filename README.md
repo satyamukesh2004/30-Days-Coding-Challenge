@@ -195,6 +195,16 @@ Merge Sorted Array → LeetCode - 88
 Intersection of Two Arrays II → LeetCode - 350
 ✔️ Status: Completed successfully 🎉
 
+✅ Day 20
+Problems Solved:
+
+Number of Recent Calls → LeetCode - 933
+
+Implement Stack using Queues → LeetCode - 225
+
+Design Linked List → LeetCode - 707
+✔️ Status: Completed successfully 🎉
+
 🔥 Why I’m Doing This
 “Consistency beats intensity. Small steps taken daily lead to big achievements.”
 
