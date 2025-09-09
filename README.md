@@ -205,6 +205,16 @@ Implement Stack using Queues → LeetCode - 225
 Design Linked List → LeetCode - 707
 ✔️ Status: Completed successfully 🎉
 
+✅ Day 21
+Problems Solved:
+
+Subsets II → LeetCode - 90
+
+Combination Sum II → LeetCode - 40
+
+Permutations II → LeetCode - 47
+✔️ Status: Completed successfully 🎉
+
 🔥 Why I’m Doing This
 “Consistency beats intensity. Small steps taken daily lead to big achievements.”
 
