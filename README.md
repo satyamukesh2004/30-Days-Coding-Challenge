@@ -215,6 +215,16 @@ Combination Sum II → LeetCode - 40
 Permutations II → LeetCode - 47
 ✔️ Status: Completed successfully 🎉
 
+✅ Day 22
+Problems Solved:
+
+Binary Tree Inorder Traversal → LeetCode - 94
+
+Binary Tree Preorder Traversal → LeetCode - 144
+
+Binary Tree Postorder Traversal → LeetCode - 145
+✔️ Status: Completed successfully 🎉
+
 🔥 Why I’m Doing This
 “Consistency beats intensity. Small steps taken daily lead to big achievements.”
 
