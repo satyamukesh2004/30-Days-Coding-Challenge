@@ -225,6 +225,26 @@ Binary Tree Preorder Traversal → LeetCode - 144
 Binary Tree Postorder Traversal → LeetCode - 145
 ✔️ Status: Completed successfully 🎉
 
+✅ Day 23
+Problems Solved:
+
+Binary Tree Level Order Traversal → LeetCode - 102
+
+Maximum Depth of Binary Tree → LeetCode - 104
+
+Minimum Depth of Binary Tree → LeetCode - 111
+✔️ Status: Completed successfully 🎉
+
+✅ Day 24
+Problems Solved:
+
+Diameter of Binary Tree → LeetCode - 543
+
+Same Tree → LeetCode - 100
+
+Symmetric Tree → LeetCode - 101
+✔️ Status: Completed successfully 🎉
+
 🔥 Why I’m Doing This
 “Consistency beats intensity. Small steps taken daily lead to big achievements.”
 
