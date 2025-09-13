@@ -245,6 +245,15 @@ Same Tree → LeetCode - 100
 Symmetric Tree → LeetCode - 101
 ✔️ Status: Completed successfully 🎉
 
+✅ Day 25 Problems Solved:
+
+Sum of Left Leaves → LeetCode - 404 
+
+Range Sum of BST → LeetCode - 938 
+
+Search in a Binary Search Tree → LeetCode - 700 
+✔️ Status: Completed successfully 🎉
+
 🔥 Why I’m Doing This
 “Consistency beats intensity. Small steps taken daily lead to big achievements.”
 
