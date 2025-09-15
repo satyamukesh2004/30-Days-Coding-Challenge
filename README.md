@@ -254,15 +254,23 @@ Range Sum of BST → LeetCode - 938
 Search in a Binary Search Tree → LeetCode - 700 
 ✔️ Status: Completed successfully 🎉
 
-📅 Day 26 Progress
-
-✅ Problems Solved:
+✅ Day 26 Problems Solved:
 
 Max Area of Island → LeetCode 695
 
 Island Perimeter → LeetCode 463
 
 Keys and Rooms → LeetCode 841
+
+✔️ Status: Completed successfully 🎉
+
+✅ Day 27 Problems Solved:
+
+Is Graph Bipartite → LeetCode 785
+
+Graph Valid Tree → LeetCode 261
+
+Number of Connected Components → LeetCode 323
 
 ✔️ Status: Completed successfully 🎉
 
